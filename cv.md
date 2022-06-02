@@ -14,7 +14,7 @@ I have no work experience. My strengths are the pursuit of goals and the ability
 <p>  return a + b;<p>
 <p>}<p>
 <p><p>
-<p>let result = sum(1, 2);<p>
+<p>let result = sum(1, 3);<p>
 <p>alert( result );<p>
 <h2>English Level<h2>
 I know English at the basic level A1, at the moment I am actively learning it.
