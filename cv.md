@@ -1,5 +1,5 @@
-<h1>Maxim Turchak<h1>
-<h2>My Contact info<h2>
+<header><h1>Maxim Turchak<h1></header>
+<main><h2>My Contact info<h2>
 <ul>
 <li>Address: Poland, Bydgoszcz, Nasypowa st.</li>
 <li>E-mail: tucamaks@gmail.com</li>
@@ -17,4 +17,10 @@ I have no work experience. My strengths are the pursuit of goals and the ability
 <p>let result = sum(1, 3);<p>
 <p>alert( result );<p>
 <h2>English Level<h2>
-I know English at the basic level A1, at the moment I am actively learning it.
+I know English at the basic level A1 and at this moment I am actively learning it.
+</main>
+<footer>
+My GitHub: https://github.com/wqdwee
+Course:https://github.com/wqdwee
+<img class='svg' src='rs_school_js.svg' alt="логотип rss">
+</footer>
